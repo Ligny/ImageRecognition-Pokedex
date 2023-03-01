@@ -11,7 +11,7 @@ As everyone knows bulbasaur is the best pokemon. This notebook allows to know wh
 
 ## How to use
 
-1. 1t the root of the repository drop an image named `test.jpeg`
+1. Drop an image named `test.jpeg` at the root of the project
 > choose between **bulbasaur, ivysaur, venusaur**
 
 2. Launch the notebook
